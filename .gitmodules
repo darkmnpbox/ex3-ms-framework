@@ -1,0 +1,3 @@
+[submodule "common/ex3-ms-dtos"]
+	path = common/ex3-ms-dtos
+	url = git@github.com:darkmnpbox/ex3-ms-dtos.git
